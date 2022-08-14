@@ -1,1 +1,36 @@
-/*# sourceMappingURL=main.css.map */
+body {
+    margin: 1.5em;
+    font-family: 'poppins', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    font-size: 1.3rem;
+}
+
+.logo {
+    color: black;
+    font-weight: bold;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+}
+menu {
+    width: 3em;
+    margin-top:top -.6;
+    color: black;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+section.hero {
+    color: white;
+}
+
+
+
+
+nav {
+display: none;
+}
